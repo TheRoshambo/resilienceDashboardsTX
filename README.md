@@ -3,8 +3,7 @@
 * Dashboard Authors: [Daniel Payan](https://github.com/danielpayan13), June Yu, and [Jelena Tešić](jtesic.github.io), Computer Science Department, Texas State University
 * Project collaborator and data provider: [Li Feng](https://lifeng.wp.txstate.edu/), Department of Economics, Texas State University 
 
-** Acknowledgements **
-The work has been supported by [CHERR](https://www.cherr.txst.edu/) and [Data Lab](DataLab12.github.io) at Texas State University. 
+**Acknowledgements** The work has been supported by [CHERR](https://www.cherr.txst.edu/) and [Data Lab](DataLab12.github.io) at Texas State University. 
 
 ## SETUP
   1. Download Anaconda/Juptyer Notebook for your device's operating system from [here](https://www.anaconda.com/products/distribution#Downloads)
@@ -12,7 +11,7 @@ The work has been supported by [CHERR](https://www.cherr.txst.edu/) and [Data La
      * make sure all the conda packages are up to date: ```conda update --all'''
        * answer Yes to install all packages   
      * install needed packages as follows: 
-       * the [bokeh](https://anaconda.org/bokeh/jupyter_bokeh) package: ```>>conda install -c bokeh jupyter_bokeh'''
+       * the [bokeh](https://anaconda.org/bokeh/jupyter_bokeh) package: '''>>conda install -c bokeh jupyter_bokeh'''
        * the [hv_plot](https://anaconda.org/conda-forge/hvplot), the [panel](https://anaconda.org/conda-forge/panel), and [geopandas](https://geopandas.org/en/stable/getting_started/install.html) packages: ```>>conda install -c conda-forge hvplot panel geopandas'''
        * [openpyxl](https://anaconda.org/anaconda/openpyxl) package: ```conda install -c anaconda openpyxl'''
        * [plotly express](https://anaconda.org/plotly/plotly_express) package: ``conda install -c plotly plotly_express''
