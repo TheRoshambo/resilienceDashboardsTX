@@ -1,5 +1,6 @@
-# Identifying Resilience Factors in texas Public Schools 
+# Data Integration and Visualization Software for Identifying Resilience Factors in texas Public Schools]
 
+* Open source dashboard data cleaning and integration for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project
 * Dashboard Authors: [Daniel Payan](https://github.com/danielpayan13), June Yu, and [Jelena Tešić](jtesic.github.io), Computer Science Department, Texas State University
 * Project collaborator and data provider: [Li Feng](https://lifeng.wp.txstate.edu/), Department of Economics, Texas State University 
 
