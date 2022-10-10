@@ -1,9 +1,7 @@
 # Identifying Resilience Factors in texas Public Schools 
 
-* Dashboard Authors: Daniel Payan, June Yu, and [Jelena Tešić](jtesic.github.io)
-[DataLab @ TXST](DataLab12.github.io), Computer Science Department, Texas State University
-* Project collaborator and data provider: Li Feng, Department of Economics, Texas State University 
-
+* Dashboard Authors: [Daniel Payan](https://github.com/danielpayan13), June Yu, and [Jelena Tešić](jtesic.github.io), Computer Science Department, Texas State University
+* Project collaborator and data provider: [Li Feng](https://lifeng.wp.txstate.edu/), Department of Economics, Texas State University 
 
 ** Acknowledgements **
 The work has been supported by [CHERR](https://www.cherr.txst.edu/) and [Data Lab](DataLab12.github.io) at Texas State University. 
