@@ -1,4 +1,4 @@
-# [DataLab](DataLab12.github.io) + [CHERR](cherr.txst.edu)  Data Integration and Visualization Software
+# Open Source Data Integration, Analysis, and Visualization Dashboard
 
 * Open source dashboard data cleaning and integration for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project
 * Dashboard Authors: [Daniel Payan](https://github.com/danielpayan13), June Yu, and [Jelena Tešić](jtesic.github.io), Computer Science Department, Texas State University
