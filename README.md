@@ -27,9 +27,10 @@
     ![image](https://user-images.githubusercontent.com/87658834/199155960-24a4f35a-72bc-495a-baa3-e24f7a0601b7.png)
 
     * Tab 2 displays a histogram of the percent changes in STAAR scores along with a heatmap that models change based on demographic group and grade from 2019 to 2021.
+    ![image](https://user-images.githubusercontent.com/87658834/199156064-80a212ba-c5be-4443-aaf1-c62eef961e20.png)
 
 * [District_CountyDashboard](District_CountyDashboard.ipynb) -> outputs 3 tabs
     *  Tab 1 displays a set of nine district-level maps of the highest population counties in Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
     *  Tab 2 displays a set of nine district-level maps of counties along the I-35 Austin area in Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
     *  Tab 3 displays a district-level map of Texas which reflects percent changes in Staff/Student population, STAAR testing scores, and the most influential features for these STAAR changes.
-    
+    ![image](https://user-images.githubusercontent.com/87658834/199156106-826ca934-c887-4315-8d26-a331b53b5f96.png)
