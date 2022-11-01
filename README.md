@@ -24,6 +24,8 @@
 
 * [JointDashboard](JointDashboard.ipynb) -> outputs 2 tabs
     * Tab 1 displays a set of three county-level maps of Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the workforce from 2019 to 2021.
+    ![image](https://user-images.githubusercontent.com/87658834/199155960-24a4f35a-72bc-495a-baa3-e24f7a0601b7.png)
+
     * Tab 2 displays a histogram of the percent changes in STAAR scores along with a heatmap that models change based on demographic group and grade from 2019 to 2021.
 
 * [District_CountyDashboard](District_CountyDashboard.ipynb) -> outputs 3 tabs
