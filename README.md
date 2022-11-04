@@ -8,8 +8,7 @@ _Open source dashboard developed for the [Identifying Resilience Factors in Texa
  ![image](https://user-images.githubusercontent.com/87658834/199156064-80a212ba-c5be-4443-aaf1-c62eef961e20.png)
  ![image](https://user-images.githubusercontent.com/87658834/199156106-826ca934-c887-4315-8d26-a331b53b5f96.png)
 
-
-## Jupyter Notebooks 
+## Jupyter Notebooks for Texas Open Source Data
 * [JointDashboard](JointDashboard.ipynb) -> outputs 2 tabs
     * Tab 1 displays a set of three county-level maps of Texas which reflect percent changes in Staff/Student population, STAAR testing scores, and the workforce from 2019 to 2021.
     * Tab 2 displays a histogram of the percent changes in STAAR scores along with a heatmap that models change based on demographic group and grade from 2019 to 2021.
