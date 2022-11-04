@@ -1,7 +1,7 @@
 # Open Source Data Integration, Analysis, and Visualization Dashboard
 
 
-_Open source dashboard data cleaning and integration software developed for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project_  by [Daniel Payan](https://github.com/danielpayan13), dashboard author, [June Yu](https://j-y-yu.github.io/), data integration and modeling, [Li Feng](https://lifeng.wp.txstate.edu/), domain expert, and [Jelena Tešić](jtesic.github.io), project lead. The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
+_Open source dashboard developed for the [Identifying Resilience Factors in Texas Public Schools](2022Fall-CHERR-Poster.pdf) project_  by [Daniel Payan](https://github.com/danielpayan13) (dashboard author) [June Yu](https://j-y-yu.github.io/), ([data integration and modeling](https://github.com/DataLab12/educationDataScience)), [Li Feng](https://lifeng.wp.txstate.edu/), domain expert, and [Jelena Tešić](jtesic.github.io), project lead. The work has been supported by [The Center of Excellence for Community Health and Economic Resilience Research](https://www.cherr.txst.edu/) and [Data Lab](https://DataLab12.github.io) @ Texas State University.
 
 
  ![image](https://user-images.githubusercontent.com/87658834/199155960-24a4f35a-72bc-495a-baa3-e24f7a0601b7.png)
